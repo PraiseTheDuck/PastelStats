@@ -16,7 +16,7 @@ An [Omarchy](https://omarchy.org/) bar widget that shows CPU and GPU usage, temp
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/michaelsucks/PastelStats --enable
+omarchy plugin add https://github.com/PraiseTheDuck/PastelStats --enable
 ```
 
 ## Remove
